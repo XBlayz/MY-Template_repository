@@ -9,3 +9,5 @@
   - [ ] Add info;
 - [ ] Add LICENSE.txt;
 - [ ] Update CHANGELOG.md;
+
+`Delete this file when everything is check`
