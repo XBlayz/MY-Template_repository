@@ -101,6 +101,16 @@ Please [write a great commit message](https://chris.beams.io/posts/git-commit/).
 ```
 [TAG]: Short summary of changes in 50 chars or less
 
+Add a list of the added, changed or removed features using the
+respectively list demarcator in following order and remember to
+add a semicolon at the end of each element:
++ Added feature;
++ ...;
+- Removed feature;
+- ...;
+~ Changed feature;
+~ ...;
+
 Add a more detailed explanation here, if necessary. Possibly give 
 some background about the issue being fixed, etc. The body of the 
 commit message can be several paragraphs. Further paragraphs come 
