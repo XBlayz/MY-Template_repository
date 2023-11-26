@@ -1,15 +1,29 @@
 # Changelog
+#TODO: Project description.
 
-## v1.0.0
 
-### Added or Changed
-- Added this changelog :)
-- Fixed typos in both templates
-- Back to top links
-- Added more "Built With" frameworks/libraries
-- Changed table of contents to start collapsed
-- Added checkboxes for major features on roadmap
 
-### Removed
+## [v_._._] - dd-mm-yyyy
+#TODO: Version description.
 
-- Some packages/libraries from acknowledgements I no longer use
+### Added
+* #TODO: Feature added;
+
+### Changed
+* #TODO: Feature changed;
+
+### Fixed
+* #TODO: Bug fixed;
+
+
+## [v_._._] - dd-mm-yyyy
+#TODO: Version description.
+
+### Added
+* #TODO: Feature added;
+
+### Changed
+* #TODO: Feature changed;
+
+### Fixed
+* #TODO: Bug fixed;
