@@ -99,7 +99,7 @@ Please [write a great commit message](https://chris.beams.io/posts/git-commit/).
 8. If applicable, prefix the title with the relevant component name. (examples: "[Docs] Fix typo", "[Profile] Fix missing avatar")
 
 ```
-[TAG]: Short summary of changes in 50 chars or less
+[TAG] Short summary of changes in 50 chars or less
 
 Add a list of the added, changed or removed features using the
 respectively list demarcator in following order and remember to
