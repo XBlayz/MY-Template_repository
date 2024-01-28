@@ -23,7 +23,7 @@
 Please review our [Code of Conduct](./CODE_OF_CONDUCT.md). It is in effect at all times. We expect it to be honored by everyone who contributes to this project.
 
 ## :bulb: Asking Questions
-If you have any question about the project you can use the contact information on the main page of the project for asking them. Use GitHub issues only for filing bugs and feature requests.
+If you have any question about the project you can use the GitHub discussions of the project for asking them. Use GitHub issues only for filing bugs and feature requests.
 
 ## :inbox_tray: Opening an Issue
 Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project. If you are not up-to-date, see if updating fixes your issue first.
@@ -87,7 +87,7 @@ For most contributions, after your first pull request is accepted and merged, yo
 - Use spaces, not tabs.
 
 ## :memo: Writing Commit Messages
-Please [write a great commit message](https://chris.beams.io/posts/git-commit/).
+Please [write a great commit message](https://chris.beams.io/posts/git-commit/) and for additional guideline refers to [this](https://gist.github.com/tonibardina/9290fbc7d605b4f86919426e614fe692#file-std-md).
 
 1. Separate subject from body with a blank line
 2. Limit the subject line to 50 characters
@@ -100,16 +100,6 @@ Please [write a great commit message](https://chris.beams.io/posts/git-commit/).
 
 ```
 [TAG] Short summary of changes in 50 chars or less
-
-Add a list of the added, changed or removed features using the
-respectively list demarcator in following order and remember to
-add a semicolon at the end of each element:
-+ Added feature;
-+ ...;
-- Removed feature;
-- ...;
-~ Changed feature;
-~ ...;
 
 Add a more detailed explanation here, if necessary. Possibly give 
 some background about the issue being fixed, etc. The body of the 
@@ -134,6 +124,17 @@ change? Here's the place to explain them.
 
  - A hyphen or asterisk should be used for the bullet, preceded
    by a single space, with blank lines in between
+
+Also a list of the added, changed or removed features using the
+respectively list demarcator is a good option. Remeber to follow
+the order and to add a semicolon at the end of each element:
+
++ Added feature;
++ ...;
+- Removed feature;
+- ...;
+~ Changed feature;
+~ ...;
 
 Note the fixed or relevant GitHub issues at the end:
 
