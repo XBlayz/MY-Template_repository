@@ -5,10 +5,10 @@
 
 <!-- Parameters:
 *** `github_username`, `repo_name`,
-*** `project_owner_name`, `email_client`, `email`,
-*** `project_title`, `project_description`
-*** `extended_project_description`
-*** `license_tipe`
+*** `project_owner_name`, `email_user`, `email_client`,
+*** `project_title`, `short_description`
+*** `extended_description`
+*** `license_type`
 -->
 
 
@@ -33,7 +33,7 @@
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
+    short_description
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -83,7 +83,7 @@
 
 [![Product Name Screen Shot][product-screenshot]]
 
-extended_project_description
+extended_description
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,7 +149,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 ## License
-Distributed under the license_tipe License. See `LICENSE.txt` for more information.
+Distributed under the license_type License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +157,7 @@ Distributed under the license_tipe License. See `LICENSE.txt` for more informati
 
 <!-- CONTACT -->
 ## Contact
-project_owner_name - email@email_client.com
+project_owner_name - email_user@email_client
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
@@ -186,5 +186,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com//repo_name/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
