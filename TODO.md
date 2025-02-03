@@ -1,5 +1,5 @@
 # ToDoList
-- [ ] Setup README.md;
+- [ ] Setup `README.md`;
   - [ ] Setup parameter;
   - [ ] Setup logo;
   - [ ] Setup demo button;
@@ -7,7 +7,7 @@
   - [ ] Setup product screenshot;
   - [ ] Setup and badges shield;
   - [ ] Add info;
-- [ ] Add LICENSE.txt;
-- [ ] Update CHANGELOG.md;
+- [ ] Add `LICENSE`;
+- [ ] Update `CHANGELOG.md`;
 
-`Delete this file when everything is check`
+> ! Delete this file when everything is check !
